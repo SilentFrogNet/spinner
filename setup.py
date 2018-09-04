@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="spinner",
-    version="0.1",
+    version="1.0",
     author="Ilario Dal Grande",
     author_email="ilario.dalgrande@silentfrog.net",
     description="A tiny library to add spinners to your code",
