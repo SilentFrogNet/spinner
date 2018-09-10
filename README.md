@@ -10,11 +10,11 @@ This is a really tiny library to add spinners to your code.
 
 ## Spinner types
 
-  * CLASSIC         &rightarrow; ![](http://www.giphy.com/gifs/Zcxo127Rk8lCKhcyCJ)
-  * SINGLE_PIPES    &rightarrow; ![](http://www.giphy.com/gifs/tsStoop09Dl5SvCcu2)
-  * DOUBLE_PIPES    &rightarrow; ![](http://www.giphy.com/gifs/cIjNu8vDhtkoSa1jPx)
-  * VERTICAL        &rightarrow; ![](http://www.giphy.com/gifs/1qgIRgTLgi0XBobx4h)
-  * DOT             &rightarrow; ![](http://www.giphy.com/gifs/5h5D8vGsYIHcS8psJt)
-  * DOTS            &rightarrow; ![](http://www.giphy.com/gifs/ZxYt3xY2faI5udsiLQ)
-  * DOTS2           &rightarrow; ![](http://www.giphy.com/gifs/8vqEO6bwmsd95F1BDr)
+  * CLASSIC         &rightarrow; ![](https://media.giphy.com/media/Zcxo127Rk8lCKhcyCJ/giphy.gif)
+  * SINGLE_PIPES    &rightarrow; ![](https://media.giphy.com/media/tsStoop09Dl5SvCcu2/giphy.gif)
+  * DOUBLE_PIPES    &rightarrow; ![](https://media.giphy.com/media/cIjNu8vDhtkoSa1jPx/giphy.gif)
+  * VERTICAL        &rightarrow; ![](https://media.giphy.com/media/1qgIRgTLgi0XBobx4h/giphy.gif)
+  * DOT             &rightarrow; ![](https://media.giphy.com/media/5h5D8vGsYIHcS8psJt/giphy.gif)
+  * DOTS            &rightarrow; ![](https://media.giphy.com/media/ZxYt3xY2faI5udsiLQ/giphy.gif)
+  * DOTS2           &rightarrow; ![](https://media.giphy.com/media/8vqEO6bwmsd95F1BDr/giphy.gif)
   
