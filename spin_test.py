@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import threading
 import time
 import sys
@@ -20,6 +21,8 @@ def print_spinner(text, spin_type, sleep=4):
 
 
 def main(sleep):
+    print("\n")
+    time.sleep(2)
     print_spinner('   classic...', Spinner.SpinnerTypes.CLASSIC, sleep=sleep)
     print_spinner('   single...', Spinner.SpinnerTypes.SINGLE_PIPES, sleep=sleep)
     print_spinner('   double...', Spinner.SpinnerTypes.DOUBLE_PIPES, sleep=sleep)
