@@ -8,6 +8,7 @@
 
 This is a really tiny library to add spinners to your code.
 
+
 ## Spinner types
 
   | Name          | Example                                                         |
@@ -19,4 +20,10 @@ This is a really tiny library to add spinners to your code.
   | DOT           | ![](https://media.giphy.com/media/5h5D8vGsYIHcS8psJt/giphy.gif) |
   | DOTS          | ![](https://media.giphy.com/media/ZxYt3xY2faI5udsiLQ/giphy.gif) |
   | DOTS2         | ![](https://media.giphy.com/media/8vqEO6bwmsd95F1BDr/giphy.gif) |
-  
+
+
+## Install 
+
+From git
+
+`pip install git+git://github.com/SilentFrogNet/spinner.git`
