@@ -9,7 +9,16 @@
 This is a really tiny library to add spinners to your code.
 
 
+## Install 
+
+From git
+
+`pip install git+git://github.com/SilentFrogNet/spinner.git`
+
+
 ## Spinner types
+
+These are the available `SpinnerTypes`
 
   | Name          | Example                                                         |
   | ---           | ---                                                             |
@@ -22,8 +31,37 @@ This is a really tiny library to add spinners to your code.
   | DOTS2         | ![](https://media.giphy.com/media/8vqEO6bwmsd95F1BDr/giphy.gif) |
 
 
-## Install 
+## Example of use
 
-From git
+Check the `spin_test.py` file for a working example.
 
-`pip install git+git://github.com/SilentFrogNet/spinner.git`
+``` python
+from spinner import Spinner, SpinnerTypes
+
+with Spinner(prefix="my awesome spinner...", spinner_type=SpinnerTypes.VERTICAL):
+    time.sleep(5)   # Any of your time-consuming task
+```
+
+
+# Changelog
+
+What's happened so far...
+
+
+## 1.1.0 - 2018-10-03
+
+### Changed
+
+ *  Simplified the use of the spinner with python context manager
+
+
+## 1.0.1 - 2018-09-10
+
+### Added
+
+ *  Added examples into the README file
+
+
+## 1.0.0 - 2018-09-10
+
+ *  First stable release

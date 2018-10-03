@@ -1,3 +1,6 @@
-from .spinner import Spinner
+from .spinner import Spinner, SpinnerTypes
 
-name = "spinner"
+__all__ = [
+    'Spinner',
+    'SpinnerTypes'
+]
