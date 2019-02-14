@@ -1,0 +1,7 @@
+README.md
+spinner/__init__.py
+spinner/spinner.py
+spinner.egg-info/PKG-INFO
+spinner.egg-info/SOURCES.txt
+spinner.egg-info/dependency_links.txt
+spinner.egg-info/top_level.txt
